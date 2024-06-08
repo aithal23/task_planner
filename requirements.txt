@@ -1,0 +1,4 @@
+python-telegram-bot==13.12
+mysql-connector-python==8.0.28
+python-dotenv==0.20.0
+
